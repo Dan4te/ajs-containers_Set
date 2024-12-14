@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/nfj8kiqyufyyiuk0?svg=true)](https://ci.appveyor.com/project/Dan4te/ajs-containers-set)
 
 # Домашнее задание к лекции «Контейнеры»
 
